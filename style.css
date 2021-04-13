@@ -1,0 +1,14 @@
+body 
+    {color: blue;
+    text-align:center;}
+#primero 
+    {font-size: 12px;font-family: serif;text-transform: uppercase}
+#segundo 
+    {font-size: 12px;font-family: sans-serif;font-style: italic}
+#tercero
+    {font-size: 12px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: bold}
+
+
+
+
+
